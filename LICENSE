@@ -1,0 +1,16 @@
+AhaKey Protocol Repository Licensing
+
+Unless otherwise noted, the documentation in this repository is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+This includes, but is not limited to:
+
+- README.md
+- CHANGELOG.md
+- docs/**
+
+License details:
+https://creativecommons.org/licenses/by/4.0/
+
+Example code under examples/** is licensed separately under the MIT License.
+See examples/LICENSE for details.
