@@ -1,0 +1,7 @@
+/build/
+/dist/
+sdk/build/sdk.local.ps1
+*.elf
+*.hex
+*.map
+*.lst
